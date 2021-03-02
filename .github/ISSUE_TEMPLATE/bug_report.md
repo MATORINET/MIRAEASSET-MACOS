@@ -9,4 +9,4 @@ assignees: MATORINET
 
 - Deskripsikan bug dengan jelas
  - MacOS Version: [e.g. Big Sur]
- - Hots Version Release [e.g. V.3.0]
+ - Hots Version Release: [e.g. V.3.0]
